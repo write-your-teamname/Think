@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Monster
+  - SpawnPoint
+  - key
+  - keyPoint
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Floor
+    uniqueID: 450217589
+    locked: 0
+  - name: Key
+    uniqueID: 1077510401
+    locked: 0
+  - name: Player
+    uniqueID: 3049417855
+    locked: 0
+  - name: Wall
+    uniqueID: 1244746507
+    locked: 0
+  - name: Monster(Black)
+    uniqueID: 1480071215
+    locked: 0
